@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <a href="https://linktr.ee/sondelsur">
-          <img src={logo} alt="logo" />
+          <img src={logo} alt="logo" className='App-logo' />
         </a>
       </header>
     </div>
