@@ -1,4 +1,4 @@
-import logo from './logo.jpg'
+import logo from './images/logo.jpg'
 import './App.css'
 import { Layout } from './components'
 
